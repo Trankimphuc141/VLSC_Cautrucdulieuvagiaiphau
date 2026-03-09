@@ -1,0 +1,13 @@
+D:\github\VLSC_DataStructure Algorithm\DSA_lesson1\bin\Debug\netcoreapp3.1\DSA_lesson1.exe
+D:\github\VLSC_DataStructure Algorithm\DSA_lesson1\bin\Debug\netcoreapp3.1\DSA_lesson1.deps.json
+D:\github\VLSC_DataStructure Algorithm\DSA_lesson1\bin\Debug\netcoreapp3.1\DSA_lesson1.runtimeconfig.json
+D:\github\VLSC_DataStructure Algorithm\DSA_lesson1\bin\Debug\netcoreapp3.1\DSA_lesson1.runtimeconfig.dev.json
+D:\github\VLSC_DataStructure Algorithm\DSA_lesson1\bin\Debug\netcoreapp3.1\DSA_lesson1.dll
+D:\github\VLSC_DataStructure Algorithm\DSA_lesson1\bin\Debug\netcoreapp3.1\DSA_lesson1.pdb
+D:\github\VLSC_DataStructure Algorithm\DSA_lesson1\obj\Debug\netcoreapp3.1\DSA_lesson1.csprojAssemblyReference.cache
+D:\github\VLSC_DataStructure Algorithm\DSA_lesson1\obj\Debug\netcoreapp3.1\DSA_lesson1.AssemblyInfoInputs.cache
+D:\github\VLSC_DataStructure Algorithm\DSA_lesson1\obj\Debug\netcoreapp3.1\DSA_lesson1.AssemblyInfo.cs
+D:\github\VLSC_DataStructure Algorithm\DSA_lesson1\obj\Debug\netcoreapp3.1\DSA_lesson1.csproj.CoreCompileInputs.cache
+D:\github\VLSC_DataStructure Algorithm\DSA_lesson1\obj\Debug\netcoreapp3.1\DSA_lesson1.dll
+D:\github\VLSC_DataStructure Algorithm\DSA_lesson1\obj\Debug\netcoreapp3.1\DSA_lesson1.pdb
+D:\github\VLSC_DataStructure Algorithm\DSA_lesson1\obj\Debug\netcoreapp3.1\DSA_lesson1.genruntimeconfig.cache

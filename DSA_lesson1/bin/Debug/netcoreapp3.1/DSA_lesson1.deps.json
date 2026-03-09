@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DSA_lesson1/1.0.0": {
+        "runtime": {
+          "DSA_lesson1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DSA_lesson1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
